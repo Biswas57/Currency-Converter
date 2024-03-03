@@ -1,4 +1,4 @@
-![image](https://github.com/Biswas57/Currency-Converter/assets/134140572/61469a3c-b0a1-48c0-9633-0a1de4ae74d1)# Google Chrome Extension: Currency Converter
+# Google Chrome Extension: Currency Converter
 Extension made to help convert currencies efficiently and accurately
 This was my first ever individual coding project, pretty simple and efficient. Took approximately an hour of working time. 
 
