@@ -8,5 +8,5 @@ Posted it on the Chrome Web Store and you can access it using this link:
 https://chrome.google.com/webstore/detail/currency-converter/gfgbcjjjfedmbfpcdnmhpfopnpjiafpb
 
 Currency Converter | Google Chrome Extension	     September 2023
-●	Created an efficient browser extension for real-time currency conversion, utilizing JavaScript with API integration. 
-●	Developed proficiency in building browser extensions with manifest version 3 and integrating them with a HTML user interface.
+- Created an efficient browser extension for real-time currency conversion, utilizing JavaScript with API integration.
+- Developed proficiency in building browser extensions with manifest version 3 and integrating them with a HTML user interface.
